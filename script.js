@@ -33,6 +33,6 @@ VaneligeSpørsmål.addEventListener("click", () => {
 KontaktOss.addEventListener("click", () => {
   meneskerILombo.innerHTML =
     "<p>Kontakt oss på telefon: <a href='tel:+4790038238233'>90038238233</a></p>" +
-    "<p>Eller e-post: <a href='mailto:example@gmail.com'>example@gmail.com</a></p>" +
-    "<p>Støtt oss på <a href='https://www.vipps.no/checkout?merchantId=YOUR_MERCHANT_ID'>Vipps</a></p>";
+    "<p>Eller e-post: <a href='mailto:example@gmail.com'>example@gmail.com</a></p>"; // +
+  // "<p>Støtt oss på <a href='https://www.vipps.no/checkout?merchantId=YOUR_MERCHANT_ID'>Vipps</a></p>";
 });
